@@ -1,0 +1,10 @@
+Flask
+flask-cors
+firebase-admin
+google-cloud-firestore
+requests
+datetime
+python-dateutil
+openai
+yfinance
+pytz
