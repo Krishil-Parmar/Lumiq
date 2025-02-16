@@ -246,7 +246,7 @@ class HomePage extends StatelessWidget {
       mainAxisAlignment: MainAxisAlignment.spaceBetween,
       children: [
         _summaryCard("History", "₹5640", "Show this week's history"),
-        _summaryCard("Remaining", "-₹6400", "Show this week's history"),
+        _summaryCard("Increase from past month", "+₹6400", "Show this month's history"),
         _summaryCard("Remaining", "₹5000", "For next week"),
       ],
     );
